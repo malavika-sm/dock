@@ -1,0 +1,21 @@
+*{
+    background-color:lightcyan;
+    text-align: center;
+}
+
+.intro {
+    color:darkblue;
+}
+
+.info {
+    color:dodgerblue;
+}
+
+.spend {
+    background-color:tomato;
+    color:aliceblue;
+}
+
+.budget {
+    background-color: chartreuse;
+}
