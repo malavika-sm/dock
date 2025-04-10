@@ -12,7 +12,7 @@
 pip install -r requirements.txt
 
 2. Set environment variables:
-export SECRET_KEY="your-key" export MAIL_USERNAME="your@gmail.com" export MAIL_PASSWORD="your-app-password"
+export SECRET_KEY export MAIL_USERNAME export MAIL_PASSWORD
 
 3. Run:
 python expense-tracker.py
